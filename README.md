@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BootDat
-- 🌱 I’m currently learning Blazor...
+- 🌱 I’m currently learning to build applications with Blazor...
 
 <!---
 BootDat/BootDat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
